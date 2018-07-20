@@ -1,0 +1,213 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Projects/Mobix/branches/ReactJSHelloBrowser/docs/javaScriptCodeFormatter.xml" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.9.4" last-modified="1483668030000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Projects/Mobilytics/trunk/Mobilytics/node/node.exe">
+      <version-cache version="6.2.0" last-modified="1479318591382" />
+    </local-interpreter>
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/adb_command/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/adb_dev_tools/adb_dev_tools/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/adb_tools/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/push_dev_tools/venv/bin/python" value="true" />
+        <entry key="/usr/bin/python3" value="false" />
+        <entry key="C:\Python36\python.exe" value="true" />
+        <entry key="C:\Users\gkedge.CARD\venv\lifeboat\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide-3.6.5\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide-mock-mace\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/adb_dev_tools/adb_dev_tools/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/adb_tools/bin/python" value="false" />
+        <entry key="/usr/bin/python3" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\lifeboat\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide-3.6.5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide-mock-mace\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/adb_dev_tools/adb_dev_tools/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/adb_tools/bin/python" value="false" />
+        <entry key="/usr/bin/python3" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\lifeboat\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide-3.6.5\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide-mock-mace\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gkedge.CARD\venv\riptide\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="https://gitlab.card.core">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="-1" />
+      </option>
+      <password>dfe2dff2dfc9df9ddfe7dfe1dfd3dfd0dffddfc5df9fdffcdf99df98dfd9dfe7dfe9dfcddffadfdb</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+    <YouTrack shared="false" url="https://gjk.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>dfccdfc2dfd0dfd9dfd2dfcfdffcdf9edfc8dfc0dfefdfc9df92dfcedfdcdff0dfe1dfdfdf9cdf89dfcfdfe7</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>gkedge</username>
+    </YouTrack>
+    <JIRA shared="true" url="https://jira.card.core">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfeedf99df99dfe4df9bdfc9dfc1dfe9df9adfd8df9bdfc4dfc4df99df89</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.2.0" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>gkedge</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="StepicUpdateSettings">
+    <option name="lastTimeChecked" value="1484585042328" />
+    <option name="LAST_TIME_CHECKED" value="1484585042328" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://sc.card.core/svn/MACE/MACE/Android/branches" />
+        <option value="https://sc.card.core/svn/MACE/MACE/Android/trunk" />
+        <option value="https://sc.card.core/svn/Mobix" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://sc.card.core/svn/MACE/MACE/Android/branches" />
+        <option value="https://sc.card.core/svn/Mace" />
+        <option value="https://sc.card.core/svn/MACE/MACE/Android/trunk" />
+        <option value="https://sc.card.core/svn/Mobix" />
+        <option value="https://sc.card.core/svn/Mobilytics" />
+        <option value="https://sc.svr.card.core/svn/Mobilytics" />
+        <option value="https://sc.svr.card,core/svn/Mobilytics" />
+        <option value="http://sc.svr.card,core/svn/Mobilytics" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://sc.card.core/svn/Mobilytics/branches/SubscriberSearchFormState">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge\Projects\Mobilytics\branches\SubscriberSearchFormState" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobilytics/branches/SubscriberSearchFormStateUI">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge\Projects\Mobilytics\branches\SubscriberSearchFormStateUI" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobilytics/branches/UISplit_03">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge\Projects\Mobilytics\branches\UISplit_03" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobilytics/trunk">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge\Projects\Mobilytics\trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobix/Mobix/branches/AudioStreamingRiptide">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge.CARD\Projects\Riptide\branches\AudioStreamingRiptide\riptide" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobix/Mobix/branches/e1eRiptide1-GK-AuditFlip">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge.CARD\Projects\Mobix\branches\e2eRiptide1-GK-AuditFlip\riptide" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobix/Mobix/branches/e2eRiptide1">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge.CARD\Projects\Mobix\branches\e2eRiptide1-GK5\riptide" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.card.core/svn/Mobix/Mobix/trunk">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge.CARD\Projects\MobixIDEA" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://sc.svr.card.core/svn/Mobilytics/trunk">
+          <value>
+            <set>
+              <option value="C:\Users\gkedge\Projects\Mobilytics\trunk" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

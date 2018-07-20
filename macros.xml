@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Comment Out JSON">
+      <typing text-keycode="67:1;79:1;77:1;77:1;69:1;78:1;84:1;45:1;88:1;32:1">COMMENT_X&amp;#x20;</typing>
+      <action id="EditorCut" />
+      <action id="Find" />
+      <typing text-keycode="67:1;79:1;77:1;77:1;69:1;78:1;84:1;45:1;88:1">COMMENT_X</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLineStart" />
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
