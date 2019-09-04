@@ -6,12 +6,11 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="newSubscriberSearch.json" type="JSON" />
       <mapping pattern="AddEditDeviceForm.js" type="JavaScript" />
-      <mapping pattern="SubjectSearchValidator" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="SubjectSearchValidator" type="PLAIN_TEXT" />
       <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="yow" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
