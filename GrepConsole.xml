@@ -1,13 +1,5 @@
 <application>
   <component name="GrepConsole">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="48" />
-        <option name="firstUsage" value="0" />
-        <option name="firstUsedVersion" value="8.5.162.000.1" />
-        <option name="lastNaggingDate" value="1540328414868" />
-      </DonationNagger>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -431,6 +423,7 @@
             </list>
           </option>
           <option name="name" value="default" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
